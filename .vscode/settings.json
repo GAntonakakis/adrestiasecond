@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "ostream": "cpp",
+        "xstring": "cpp",
+        "format": "cpp",
+        "random": "cpp",
+        "iostream": "cpp",
+        "string": "cpp",
+        "thread": "cpp"
+    },
+    "cmake.sourceDirectory": "C:/Users/Jon Anton/Desktop/CODINGcorner/adrestiasecond/build"
+}
